@@ -1361,12 +1361,6 @@ MOBILE RESPONSIVENESS ↓
     .header__img--wrapper {
         margin-top: 48px;
     }
-    .footer__links {
-        display: none;
-    }
-    .footer__bottom {
-        margin-top: 0;
-    }
     footer {
         padding: 80px 32px;
     }
